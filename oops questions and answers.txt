@@ -1,0 +1,14 @@
+Interview questions on the java (oops concepts)
+
+what is class 
+-> it is a blueprint or a template 
+-> it is based on the real world entity 
+-> it has two things data members and member functions 
+-> entity state and entity behavior is defined by the class 
+
+
+what is object :
+-> object is an instance of classs 
+-> object is physical entity
+-> object is created using the keyword new 
+-> it is a physical is copy of the class which takes the physical memory
